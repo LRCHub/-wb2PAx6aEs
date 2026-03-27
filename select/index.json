@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "さよーならまたいつか！- Sayonara",
+  "base_track": "さよーならまたいつか！",
   "base_artist": "米津玄師",
-  "createdAt": "2026-03-27T04:14:43.739939Z",
+  "createdAt": "2026-03-27T23:08:42.805448Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -103,28 +103,28 @@
     {
       "id": "localdb_1",
       "source": "localdb",
-      "title": "さよーならまたいつか！- Sayonara",
+      "title": "さよーならまたいつか！",
       "artist": "米津玄師",
       "has_synced": true,
-      "path": "select/localdb_01_さよーならまたいつか!-_Sayonara_米津玄師.lrc",
+      "path": "select/localdb_01_さよーならまたいつか!_米津玄師.lrc",
       "repo_name": "-wb2PAx6aEs"
     },
     {
       "id": "localdb_2",
       "source": "localdb",
-      "title": "さよーならまたいつか！- Sayonara",
+      "title": "さよーならまたいつか！",
       "artist": "米津玄師",
       "has_synced": true,
-      "path": "select/localdb_02_さよーならまたいつか!-_Sayonara_米津玄師.lrc",
+      "path": "select/localdb_02_さよーならまたいつか!_米津玄師.lrc",
       "repo_name": "I8Lqr6NeG5o"
     },
     {
       "id": "localdb_dynamic_2",
       "source": "localdb",
-      "title": "さよーならまたいつか！- Sayonara",
+      "title": "さよーならまたいつか！",
       "artist": "米津玄師",
       "has_synced": true,
-      "path": "select/localdb_02_さよーならまたいつか!-_Sayonara_米津玄師.dynamic.lrc",
+      "path": "select/localdb_02_さよーならまたいつか!_米津玄師.dynamic.lrc",
       "kind": "dynamic",
       "repo_name": "I8Lqr6NeG5o"
     }
